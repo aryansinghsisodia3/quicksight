@@ -1,0 +1,10 @@
+.venv
+__pycache__
+*.pyc
+.git
+frontend/node_modules
+frontend/dist
+uploads
+static/outputs
+*.pt
+!yolov8m.pt
