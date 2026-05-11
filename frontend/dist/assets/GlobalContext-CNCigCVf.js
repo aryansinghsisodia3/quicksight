@@ -1,0 +1,1 @@
+import{a as e,n as t,t as n}from"./jsx-runtime-DWSWI4JT.js";var r=e(t(),1),i=n(),a=(0,r.createContext)();function o({children:e}){let[t,n]=(0,r.useState)({});return(0,i.jsx)(a.Provider,{value:{globalCounts:t,setGlobalCounts:n},children:e})}var s=()=>(0,r.useContext)(a);export{s as n,o as t};

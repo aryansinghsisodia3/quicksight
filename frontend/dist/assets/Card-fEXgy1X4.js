@@ -1,0 +1,1 @@
+import{n as e,t}from"./jsx-runtime-DWSWI4JT.js";e();var n=t();function r({children:e,className:t=``}){return(0,n.jsx)(`div`,{className:`rounded-2xl border border-gray-200 bg-white p-6 shadow-lg transition-all duration-300 dark:border-white/10 dark:bg-gray-900 dark:shadow-black/40 ${t}`,children:e})}export{r as t};
